@@ -1,0 +1,25 @@
+//C++ hello world
+import iostream;
+using namespace std;
+int main(){
+cout<<"Hello C++\n";
+return 0;
+}
+//Java hello world
+class GitHub{
+public static void main(String[] args){
+system.out.println("Hello Java");
+}
+}
+//html hello world
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Hello Github</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="HelloWorld.js"></script>
+</head>
+<body>
+<h1>Hello HTML</h1>
+</body>
+</html>
